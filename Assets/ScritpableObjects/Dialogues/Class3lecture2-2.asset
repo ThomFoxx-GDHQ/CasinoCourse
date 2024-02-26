@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca0272f483b6db4892b82f5bbf5c8a2, type: 3}
+  m_Name: Class3lecture2-2
+  m_EditorClassIdentifier: 
+  sentences:
+  - Here we have a Class 2 machine.
+  - You can see it looks almost identical to a Class 3 game, with the exception of
+    this little group of boxes filled with different numbers which look like a bingo
+    card.
+  - This is because a class II slot machine is essentially a bingo game disguised
+    as a slot machine.
+  - There are still multiple reels which spin and stop to reveal an array of symbols,
+  - but its what happens behind the screen where the major differences lie.
+  - Class II games are connected to a central computer system,
+  - and each time a player makes a wager on their respective machine,
+  - the central computer system will draw a number of bingo balls to determine the
+    outcome of the game, instead of the RNG used in Class III.
+  - So just think about how a normal game of bingo works.
+  - When the player makes a wager to spin the reels.
+  - The central computer system draws out the bingo balls, and any matching numbers
+    on the bingo card that appears on the machine are marked off.
+  - Once the central computer system has drawn out the set number of ball,
+  - the final pattern made on the bingo card is compared to the list of winning patterns
+    listed in the help text.
+  - ' Each winning pattern has a specified prize and reel stop position. '
+  - All losing patterns are randomly assigned a reel stop position which based on
+    the rules would not have a prize  associated with it.
+  - So if there is match between the players bingo card and the list of winning patterns,
+  - then the respective reel stop position is shown to the player, and the corresponding
+    prize is awarded.
+  - This means what the player sees with respect to the reels spinning and stopping
+    like a class III slot machine,
+  - is just a visual representation of a bingo game playing out.

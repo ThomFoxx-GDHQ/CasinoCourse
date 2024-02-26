@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca0272f483b6db4892b82f5bbf5c8a2, type: 3}
+  m_Name: Class3lecture2-3
+  m_EditorClassIdentifier: 
+  sentences:
+  - A VLT stands for Video Lottery Terminal.
+  - A VLT is kind of like a hybrid of Class 3 and Class 2.
+  - It looks exactly the same a Class 3 Slot machine.....
+  - but behaves more like a Class 2 machine.
+  - All the VLT machines are connected to a central computer system,
+  - but instead of Bingo games disguised as slots, its a lottery game disguised as
+    slots.
+  - This systems tend to operate like a scratch-off model
+  - just like you buy a scratch-off from a pre-determined set of produced cards which
+    have a set number of winners and losers,
+  - 'the same goes for VLT bets. '
+  - ' A certain number of winning and losing outcomes have been set up,'
+  - "and with each wager, you \u201Cbuy\u201D an outcome is randomly determined from
+    the central computer system (or terminal)"
+  - ' Each winning outcome has a specified prize and reel stop position. '
+  - All losing patterns are randomly assigned a reel stop position which based on
+    the rules would not have a prize  associated with it.
+  - 'So based on the outcome selected, then the respective reel stop position is
+    shown to the player, and the corresponding prize is awarded. '
+  - 'This means just like class 2, '
+  - ' what the player sees with respect to the reels spinning and stopping like a
+    class III slot machine,'
+  - ' is just a visual representation of a lottery game playing out.'

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74b526a8b50e1f04b927f4222e8339a6, type: 3}
+  m_Name: SlotAStops
+  m_EditorClassIdentifier: 
+  positions:
+  - R1: 2
+    R2: 1
+    R3: 10
+    R4: 8
+    R5: 3
+  - R1: 1
+    R2: 1
+    R3: 11
+    R4: 2
+    R5: 2
+  - R1: 10
+    R2: 3
+    R3: 4
+    R4: 13
+    R5: 9
+  - R1: 11
+    R2: 10
+    R3: 5
+    R4: 8
+    R5: 7

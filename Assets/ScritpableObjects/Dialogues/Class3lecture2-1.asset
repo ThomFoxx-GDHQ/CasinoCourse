@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca0272f483b6db4892b82f5bbf5c8a2, type: 3}
+  m_Name: Class3lecture2-1
+  m_EditorClassIdentifier: 
+  sentences:
+  - A Class III slot game is the type of slot game we are all familiar with, where
+    there are multiple reels which stop one at a time to reveal an array of symbols
+    positioned in different spots on the screen.
+  - 'Here on the screen you will see there are 3 meters labeled:'
+  - "\u201CCredit\u201D which is meter showing the amount of money you have in the
+    game to play with,"
+  - "\u201CWin\u201D the amount of money you have won for the game that was last
+    played,"
+  - "and \u201CBet\u201D the cost amount you have selected to gamble with."
+  - Each game will have the denomination displayed somewhere on the screen.
+  - The denomination is the value of each credit. For example, 5c denomination means
+    each credit is worth 5c.
+  - Therefore 100 credits are the same as 500 cents or $5.
+  - Generally games with a higher denomination will have fewer available positions
+    to get wins.
+  - This allows the range of possible bets to be within a similar range to games
+    with other denominations, but with access to higher prizes.
+  - Here we have the information button, where you can access the help pages (sometimes
+    also known as paytable) and sometimes game settings too.
+  - Within the help pages all the rules of the game are listed,
+  - detailing what all the prizes are and how they are awarded.
+  - A reel window refers to the section of the reels which is made visible to the
+    player.
+  - A slot machine most commonly has 5 reels, but any number of reels can be used
+    to make up a slot game, it all depends on the design of the game.
+  - 'Each reel will have a line up of symbols on them. '
+  - The number of symbols visible on each reel again depends on the design of the
+    game, but the most common number is 3.
+  - Each time a wager is placed, the reels will spin and then stop to display a combination
+    of symbols randomly placed in each position of the reel window.
+  - Now lets look inside to see how a Class 3 slot determines your prizes.
+  - As you can see, each reel is made up of a list of symbols.
+  - ' The length of the reel can vary, as does the distribution of the symbols.'
+  - A class 3 slot machine works by using a random number generator (RNG) which is
+    programmed into the machine.
+  - When the player places a bet, the reels spin and the RNG assigns a random number
+    to each reel to determine the stopping position.
+  - Once the RNG has assigned a random number to each reel, the reels will stop to
+    display the selected position on the reel and the associated symbol under them.
+  - Depending on what and where the symbols are displayed and the rules of the game,
+    a prize may or may not be awarded to the player.
+  - 

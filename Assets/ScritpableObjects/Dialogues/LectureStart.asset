@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca0272f483b6db4892b82f5bbf5c8a2, type: 3}
+  m_Name: LectureStart
+  m_EditorClassIdentifier: 
+  sentences:
+  - OK, so now you have an understanding of what gambling is, lets learn a bit about
+    Slot machines.
+  - 'The slot games can take on a few different forms, depending on where in the
+    world you live, but they can be divided into 2 main categories:'
+  - Land based slots, which means the slot games are installed in a slot machine
+    cabinet and only made available to play inside a gaming venue,
+  - and online which means the slot game is made available to play via the internet.
+  - Let continue to the next room  to see the different types of slot machines that
+    exist in both categories, and how they work.
+  - 

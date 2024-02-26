@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca0272f483b6db4892b82f5bbf5c8a2, type: 3}
+  m_Name: Luck
+  m_EditorClassIdentifier: 
+  sentences:
+  - Thomas Jefferson once said, "I'm a great believer in luck, and I find the harder
+    I work, the more I have of it."
+  - What, though, is luck? Webster's dictionary suggests that luck is the "events
+    or circumstances that operate for or against an individual."
+  - In truth, luck has nothing to do with something operating for or against you.
+  - Luck is not a matter of chance.
+  - It is a matter of being open to new experiences, perseverance, hard work, and
+    positive thinking.
+  - When seventeen-year-old Steven Spielberg spent some time with his cousin in the
+    summer of 1965, they toured Universal pictures.
+  - The tram stopped at none of the sound stages.
+  - Spielberg snuck off on a bathroom break to watch a bit of the real action.
+  - When he encountered an unfamiliar face who demanded to know what he was doing,
+    he told him his story.
+  - The man turned out to be the head of the editorial department.
+  - Spielberg got a pass to the lot for the very next day and showed a very impressed
+    Chuck Silvers four of his eight-millimeter films.
+  - This event was the foot in the door Spielberg needed to start squatting on the
+    lot, a decision that led to his first contract with Universal Studios.
+  - Studies have shown that lucky people tend to be far more open to new experiences.
+  - Those who are unlucky are creatures of habit, never varying from one day to the
+    next.
+  - If you want to be lucky, add some variety to your life.
+  - Meet new people, go to new places, and increase the possibility of those chance
+    opportunities the "lucky" people always seem to run into.
+  - Luck, though, isn't JUST about trying new things. Luck is also about hard work,
+    even when it is, well, "hard."
+  - A 1994 study suggested that lucky people are the ones who continue to try, even
+    when faced with obstacles.
+  - Study initiator Richard Wiseman said, "People have to persevere, they have got
+    to stick at it.
+  - People give up too soon.
+  - The ones who achieve their goals are the ones who - when they hit obstacles -
+    don't just give up and pack it in.
+  - They try again!
+  - They find another route.
+  - They are versatile.
+  - They are flexible.
+  - They have new ways of finding solutions.
+  - Luck is accepting responsibility for who you are.
+  - And being the person who drives the bus, not the person who is driven.
+  - If you want good luck, you have to work through the times of bad luck to get
+    there.
+  - Being open to new experiences and persevering are important in creating luck,
+    but so is your thought process.
+  - One participant in a luck study was constantly thinking about her bad luck.
+  - 'One of the study creators said, "When she would come to the unit to be interviewed,
+    it would be just this whole string of bad-luck stories:'
+  - '"I can''t find anyone.'
+  - I'm unlucky in love.
+  - When I did find someone, the guy fell off his motorbike.
+  - The next blind date broke his nose.
+  - We were supposed to get married, and the church burned down."
+  - But to every single interview, she'd bring along her two kids.
+  - They were six and seven years old -- very healthy, very happy kids who'd sit
+    there and play.
+  - And it was interesting because most people would love to have two kids like that,
+    but that wasn't part of her world, because she was unlucky in her mind."
+  - The old adage related to positive thinking seems to apply to the concept of luck.
+  - Even though a particular business deal didn't work out or you missed the bus,
+  - 'looking at the bright side of things may very well encourage more luck to come
+    your way. '
+  - Proponents of the idea that luck is a matter of chance will tell you that some
+    people are just lucky.
+  - Some will even tell you that luck happens in phases and that a bit of luck is
+    sure to come your way eventually.
+  - The simple truth of the matter, though, is that luck is not a matter of chance.
+  - The great Lucille Ball once said, "Luck? I don't know anything about luck.
+  - I've never banked on it, and I'm afraid of people who do.
+  - 'Luck to me is something else:'
+  - Hard work -- and realizing what is an opportunity and what is not."
+  - You make your luck in this life, and the great thing about it is that anyone
+    can do it.
+  - Lucky you!

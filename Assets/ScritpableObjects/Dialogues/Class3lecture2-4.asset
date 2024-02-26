@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca0272f483b6db4892b82f5bbf5c8a2, type: 3}
+  m_Name: Class3lecture2-4
+  m_EditorClassIdentifier: 
+  sentences:
+  - As well as the types of slots machines we have just talked about which you would
+    only find in a gambling venue,
+  - 'there are also slots that can be played online. '
+  - 'There are 3 types:'
+  - First there are Online Real Money slots.
+  - They operate the same as class 3 slot machines.
+  - To access them the player needs to sign up to a casino where they would have
+    to deposit money either through electronic transfer or in some places by using
+    crypto-currency.
+  - The money deposited in the casino is used to wager on games via your computer
+    or mobile device for the chance to win more money.
+  - Then there are social slot games.
+  - These types of slots are found in Apps which allow players to wager on games
+    using token.
+  - 'These tokens are either given to the player for free, '
+  - or the player can purchase more tokens when they run out.
+  - These tokens cannot be exchanged for any type of currency.
+  - Lastly there are Free to play slots.
+  - These are online slot games in which the player can play for free.
+  - When they click on a game to play, credit is automatically loaded into the game
+    and available to play with.
+  - The player does not buy any credits and the credits are not redeemable for any
+    type of currency.
+  - Free to play slots can be found on certain websites or sometimes  online Casinos
+    offer there players these games to try out without having to spend their money.
