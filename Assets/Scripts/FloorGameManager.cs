@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
 public class FloorGameManager : MonoBehaviour
@@ -13,6 +14,8 @@ public class FloorGameManager : MonoBehaviour
     private int[] _currentGameRatio = new int[] { 0, 0, 10 };
 
     [SerializeField] private Slider _slider;
+
+    [SerializeField] private bool _liveUpdate;
 
     private int _currentSlotID;
 
@@ -33,18 +36,21 @@ public class FloorGameManager : MonoBehaviour
 
         slot.ChangeMachine(gameID);
 
-        if (_currentGameRatio[gameID] <= _gameRatio[gameID])
+        if (_liveUpdate)
         {
-            _lights[_currentSlotID].color = Color.green;
+            if (_currentGameRatio[gameID] <= _gameRatio[gameID])
+            {
+                _lights[_currentSlotID].color = Color.green;
+            }
+            else
+            {
+                _lights[_currentSlotID].color = Color.red;
+            }
+            SliderUpdate();
         }
-        else
-        {
-            _lights[_currentSlotID].color = Color.red;
-        }
-        SliderUpdate();
     }
 
-    private void SliderUpdate()
+    public void SliderUpdate()
     {
         int correct = 0;
         foreach (Image image in _lights)
@@ -54,6 +60,22 @@ public class FloorGameManager : MonoBehaviour
         }
 
         _slider.SetValueWithoutNotify(correct);
+    }
+
+    public void LightsUpdate()
+    {
+        for (int i = 0; i < _lights.Length; i++)
+        {
+            int gameId = _slots[i].GetComponent<FloorGameSlot>().currentID;
+            if (_currentGameRatio[gameId] <= _gameRatio[gameId])
+            {
+                _lights[i].color = Color.green;
+            }
+            else
+            {
+                _lights[i].color = Color.red;
+            }
+        }
     }
 
 }
